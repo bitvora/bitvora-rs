@@ -2,6 +2,12 @@
 name = "bitvora"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+description = "A Rust SDK for the Bitvora API"
+repository = "github.com/bitvora/bitvora-rs"
+readme = "README.md"
+keywords = ["bitvora", "api", "sdk", "rust"]
+authors = ["Bitvora", "Barry Deen"]
 
 [dependencies]
 dotenv = "0.15"
