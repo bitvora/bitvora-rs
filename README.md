@@ -8,10 +8,7 @@ Add the following to your `Cargo.toml` file:
 
 ```toml
 [dependencies]
-reqwest = { version = "0.11", features = ["json"] }
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
-dotenv = "0.15"
+bitvora = "0.1.0"
 ```
 
 ## Usage
